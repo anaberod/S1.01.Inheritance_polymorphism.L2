@@ -10,11 +10,13 @@ Implements the Camera and Clock interfaces
 The takePhoto() method should print to the console: "Taking a photo"
 The alarm() method should print: "The alarm is ringing"
 From the main() method of the application, create a Smartphone object and call the methods above.
+
 💻 Technologies Used
 Java 17 (or Java 11+)
 IntelliJ IDEA (or any Java IDE)
 Maven (optional, not required in this basic setup)
 JDK (Java Development Kit)
+
 📋 Requirements
 Java JDK 11 or later
 An IDE or terminal/command prompt with Java support
