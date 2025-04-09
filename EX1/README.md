@@ -6,7 +6,8 @@ Create two interfaces:
 
 Camera with the method takePhoto()
 
-Clock with the method alarm()
+Clock with the method 
+alarm()
 
 Create a class called Smartphone that:
 
