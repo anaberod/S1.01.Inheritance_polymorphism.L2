@@ -21,9 +21,13 @@ The alarm() method should print: "The alarm is ringing"
 From the main() method of the application, create a Smartphone object and call the methods above.
 
 💻 Technologies Used
+
 Java 17 (or Java 11+)
+
 IntelliJ IDEA (or any Java IDE)
+
 Maven (optional, not required in this basic setup)
+
 JDK (Java Development Kit)
 
 📋 Requirements
@@ -35,6 +39,7 @@ An IDE or terminal/command prompt with Java support
 Git (optional, if cloning from a repository)
 
 🛠️ Installation
+
 Clone the repository or create a new Java project:
 
 git clone https://github.com/anaberod/S1.01.Inheritance_polymorphism.L2.git
@@ -61,9 +66,25 @@ From the IDE: Right-click on Main.java and select Run.
 
 From terminal:
 
-bash Copiar Editar javac Main.java java Main You should see output like:
+bash
 
-csharp Copiar Editar Calling number: 123456789 Taking a photo The alarm is ringing 🌐 Deployment This is a console-based Java application for educational purposes and does not require deployment to a production server. You can export it as a .jar file using your IDE if needed.
+javac Main.java java Main 
+
+You should see output like:
+
+csharp 
+
+Calling number: 123456789 
+
+Taking a photo 
+
+The alarm is ringing 
+
+🌐 Deployment 
+
+This is a console-based Java application for educational purposes and does not require deployment to a production server. 
+
+You can export it as a .jar file using your IDE if needed.
 
 🤝 Contributions Contributions are welcome! To contribute:
 
