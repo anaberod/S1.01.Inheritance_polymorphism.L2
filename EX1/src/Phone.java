@@ -1,7 +1,7 @@
 public class Phone {
 
-    private String brand;
-    private String model;
+    private final String brand;
+    private final String model;
 
     public Phone(String brand, String model) {
         this.brand = brand;
@@ -11,6 +11,7 @@ public class Phone {
     public String call(String phoneNumber) {
         return "Calling number " + phoneNumber;
     }
+
 
     @Override
     public String toString() {

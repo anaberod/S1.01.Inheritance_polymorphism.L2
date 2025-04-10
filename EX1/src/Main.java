@@ -9,7 +9,9 @@ public class Main {
 
         S1.alarm();
 
-        System.out.println(S1.call("722547668"));
+        String callResult = S1.call("722547668");
+
+        System.out.println(callResult);
 
         S1.takePhoto();
 
